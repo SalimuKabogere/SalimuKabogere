@@ -30,6 +30,7 @@ I'm a passionate software developer from **Uganda** who enjoys building modern w
 - Bootstrap
 
 ### Backend
+- C
 - Node.js
 - Express.js
 - NestJS
